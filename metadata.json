@@ -1,0 +1,5 @@
+{
+  "name": "Dissertation Critique AI",
+  "description": "An advanced academic assistant utilizing multi-agent AI workflows to critique, analyze, and improve dissertation proposals. Features specialized agents for Originality, Literature Review, Methodology, and Feasibility.",
+  "requestFramePermissions": []
+}
